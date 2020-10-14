@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Surbowl/Surbowl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hey 👋, I'm Surbowl
+
+I ❤ Open Source. I love [C#](https://docs.microsoft.com/en-us/dotnet/csharp/).
+
+![Surbowl's github stats](https://github-readme-stats.vercel.app/api?username=Surbowl&show_icons=true&count_private=true&line_height=40)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Surbowl&hide=html)
