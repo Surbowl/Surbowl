@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Surbowl&layout=compact&hide_border=true)
-![Surbowl's github stats](https://github-readme-stats.vercel.app/api?username=Surbowl&show_icons=true&line_height=25&hide_title=true&count_private=true&hide_border=true)
+![Surbowl's github stats](https://github-readme-stats.vercel.app/api?username=Surbowl&show_icons=true&line_height=30&hide_title=true&count_private=true&hide_border=true)
