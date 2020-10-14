@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 I love Open Source. I love C#, 🔭 welcome to [my website](https://surbowl.online/).
 
-![Surbowl's github stats](https://github-readme-stats.vercel.app/api?username=Surbowl&show_icons=true&count_private=true&line_height=40)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Surbowl&hide=html)
+![Surbowl's github stats](https://github-readme-stats.vercel.app/api?username=Surbowl&show_icons=true&line_height=35&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Surbowl&hide=html&hide_title=true&line_height=35)
