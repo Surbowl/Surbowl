@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi 👋, I'm Surbowl
-
-I love Open Source and C#, 🔭 welcome to [my website](https://surbowl.online/).
+##### Hi 👋, I'm Surbowl, love Open Source and C#, 🔭 welcome to [my website](https://surbowl.online/).
 
 ![Surbowl's github stats](https://github-readme-stats.vercel.app/api?username=Surbowl&show_icons=true&line_height=25&hide_title=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Surbowl&layout=compact)
