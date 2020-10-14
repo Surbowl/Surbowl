@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 
 ### Hi 👋, I'm Surbowl
 
-I ❤ Open Source. I love [C#](https://docs.microsoft.com/en-us/dotnet/csharp/).
+I ❤ Open Source. I love C#, welcome to [my website](https://surbowl.online/). 👈
 
 ![Surbowl's github stats](https://github-readme-stats.vercel.app/api?username=Surbowl&show_icons=true&count_private=true&line_height=40)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Surbowl&hide=html)
 
-👉 [My website](https://surbowl.online/)
